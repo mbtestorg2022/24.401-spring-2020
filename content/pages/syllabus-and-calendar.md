@@ -32,10 +32,39 @@ Students will be responsible for writing two papers during the semester. An 8-pa
 Grading Policy
 --------------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Class participation and presentations | 15% |
-| Papers | 85% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class participation and presentations
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Papers
+{{< tdclose >}}
+{{< tdopen >}}
+85%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Readings
 --------
@@ -49,33 +78,463 @@ Calendar
 
 \[W\] Session taught by Professor White
 
-| SESS # | TOPICS |
-| --- | --- |
-| {{< td-colspan 2 >}} {{< br >}}{{< br >}} **Part I: Language** {{< br >}}{{< br >}} {{< /td-colspan >}} ||
-|  {{< br >}}{{< br >}} 1 \[B\] {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Kripke, _Wittgenstein on Rules and Private Language_ {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 2 \[W\] {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Kripke, _Naming and Necessity_ (I) {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 3 \[B\] {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Kripke, _Naming and Necessity_ (II) {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 4 \[W\] {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Grice, “Meaning” and “Logic and Conversation” {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 5 \[B\] {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Lewis, “Languages and Language” {{< br >}}{{< br >}}  |
-| {{< td-colspan 2 >}} {{< br >}}{{< br >}} **Part II: Metaphysics** {{< br >}}{{< br >}} {{< /td-colspan >}} ||
-|  {{< br >}}{{< br >}} 6 \[B\] {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Lewis, _On the Plurality of Worlds_ (I) {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 7 \[W\] {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Lewis, _On the Plurality of Worlds_ (II) {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 8 \[W\] {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Williamson, “Necessary Existents” {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 9 \[W\] {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Williams, “The Self and the Future”; Lewis, “Survival and Identity” {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 10 \[B\] {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Graff, “Shifting Sands”; Williamson, _Vagueness_ {{< br >}}{{< br >}}  |
-| {{< td-colspan 2 >}} {{< br >}}{{< br >}} **Part III: Mind** {{< br >}}{{< br >}} {{< /td-colspan >}} ||
-|  {{< br >}}{{< br >}} 11 \[B\] {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Johnston, “The Obscure Object of Hallucination” {{< br >}}{{< br >}} _Assignment: Paper 1 due_ {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 12 \[W\] {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Burge, “Individualism and the Mental” {{< br >}}{{< br >}}  |
-| {{< td-colspan 2 >}} {{< br >}}{{< br >}} **Part IV: Epistemology** {{< br >}}{{< br >}} {{< /td-colspan >}} ||
-|  {{< br >}}{{< br >}} 13 \[B\] {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Quine, “Epistemology Naturalized”; Stroud, _The Significance of Philosophical Skepticism_ {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 14 \[W\] {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Gettier, “Is Justified True Belief Knowledge?”; Nozick, _Philosophical Explanations_ {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 15 \[B\] {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Lewis, “Elusive Knowledge”; DeRose, “Solving the Skeptical Problem” {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 16 \[W\] {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Briggs, “Distorted Reflection” {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 17 \[B\] {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Williamson, _Knowledge and Its Limits_ {{< br >}}{{< br >}}  |
-| {{< td-colspan 2 >}} {{< br >}}{{< br >}} **Part V: Moral and Political Philosophy** {{< br >}}{{< br >}} {{< /td-colspan >}} ||
-|  {{< br >}}{{< br >}} 18 \[W\] {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Foot, “Morality as a System of Hypothetical Imperatives” {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 19 \[B\] {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Thomson, “Killing, Letting Die, and the Trolley Problem” {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 20 \[W\] {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Gibbard, _Wise Choices, Apt Feelings_ {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 21 \[B\] {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Nozick, _Anarchy, State, and Utopia_; Rawls, _A Theory of Justice_ {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 22 \[W\] {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Parfit, _Reasons and Persons_ {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 23 \[B/W\] {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Paper Presentations {{< br >}}{{< br >}} _Assignment: Final paper due_ {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SESS #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+
+
+**Part I: Language**
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+1 \[B\]
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Kripke, _Wittgenstein on Rules and Private Language_
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+2 \[W\]
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Kripke, _Naming and Necessity_ (I)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+3 \[B\]
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Kripke, _Naming and Necessity_ (II)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+4 \[W\]
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Grice, “Meaning” and “Logic and Conversation”
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+5 \[B\]
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Lewis, “Languages and Language”
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+
+
+**Part II: Metaphysics**
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+6 \[B\]
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Lewis, _On the Plurality of Worlds_ (I)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+7 \[W\]
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Lewis, _On the Plurality of Worlds_ (II)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+8 \[W\]
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Williamson, “Necessary Existents”
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+9 \[W\]
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Williams, “The Self and the Future”; Lewis, “Survival and Identity”
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+10 \[B\]
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Graff, “Shifting Sands”; Williamson, _Vagueness_
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+
+
+**Part III: Mind**
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+11 \[B\]
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Johnston, “The Obscure Object of Hallucination”
+
+_Assignment: Paper 1 due_
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+12 \[W\]
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Burge, “Individualism and the Mental”
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+
+
+**Part IV: Epistemology**
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+13 \[B\]
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Quine, “Epistemology Naturalized”; Stroud, _The Significance of Philosophical Skepticism_
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+14 \[W\]
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Gettier, “Is Justified True Belief Knowledge?”; Nozick, _Philosophical Explanations_
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+15 \[B\]
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Lewis, “Elusive Knowledge”; DeRose, “Solving the Skeptical Problem”
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+16 \[W\]
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Briggs, “Distorted Reflection”
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+17 \[B\]
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Williamson, _Knowledge and Its Limits_
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+
+
+**Part V: Moral and Political Philosophy**
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+18 \[W\]
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Foot, “Morality as a System of Hypothetical Imperatives”
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+19 \[B\]
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Thomson, “Killing, Letting Die, and the Trolley Problem”
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+20 \[W\]
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Gibbard, _Wise Choices, Apt Feelings_
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+21 \[B\]
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Nozick, _Anarchy, State, and Utopia_; Rawls, _A Theory of Justice_
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+22 \[W\]
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Parfit, _Reasons and Persons_
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+23 \[B/W\]
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Paper Presentations
+
+_Assignment: Final paper due_
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

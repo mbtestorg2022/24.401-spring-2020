@@ -100,7 +100,7 @@ Grice
 {{< tdopen >}}
 
 
-Grice, H.P. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[“Meaning.” (PDF)](http://semantics.uchicago.edu/kennedy/classes/f09/semprag1/grice57.pdf) _Philosophical Review_ 66, no. 3 (1957): 377–88.
+Grice, H.P. [“Meaning.” (PDF)](http://semantics.uchicago.edu/kennedy/classes/f09/semprag1/grice57.pdf) _Philosophical Review_ 66, no. 3 (1957): 377–88.
 
 ———. “Logic and Conversation.” Chapter 2 in _Studies in the Way of Words_. Harvard University Press, 1991. ISBN: 9780674852716. \[Preview with [Google Books](https://www.google.com/books/edition/Studies_in_the_Way_of_Words/QqtAbk-bs34C?hl=en&gbpv=1)\].  
 
@@ -214,7 +214,7 @@ Williams; Lewis
 {{< tdopen >}}
 
 
-Williams, Bernard. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[“The Self and the Future.” (PDF)](http://www.uvm.edu/~lderosse/courses/metaph/Williams(1970).pdf) _Philosophical Review_ 79, no. 2 (1970): 161–80.
+Williams, Bernard. [“The Self and the Future.” (PDF)](http://www.uvm.edu/~lderosse/courses/metaph/Williams(1970).pdf) _Philosophical Review_ 79, no. 2 (1970): 161–80.
 
 Lewis, David. “Survival and Identity.” Chapter 5 in _Philosophical Papers, Volume I_. Oxford University Press, 1983. ISBN: 9780195032048. 
 
@@ -244,7 +244,7 @@ Williamson, Timothy. _Vagueness_. Routledge, 1996. ISBN: 9780415139809. 
 
 _Optional_
 
-Graff, Delia. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[“Shifting Sands: An Interest-Relative Theory of Vagueness.” (PDF)](https://semanticsarchive.net/Archive/GExYWY3N/shifting.pdf) _Philosophical Topics_ 28, no. 1 (2000): 45–81. 
+Graff, Delia. [“Shifting Sands: An Interest-Relative Theory of Vagueness.” (PDF)](https://semanticsarchive.net/Archive/GExYWY3N/shifting.pdf) _Philosophical Topics_ 28, no. 1 (2000): 45–81. 
 
 
 {{< tdclose >}}
@@ -278,7 +278,7 @@ Johnston
 {{< tdopen >}}
 
 
-Johnston, Mark. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[“The Obscure Object of Hallucination.” (PDF)](https://link.springer.com/content/pdf/10.1023/B:PHIL.0000033753.64202.21.pdf) _Philosophical Studies_ 120, no. 1/3 (2004): 113–83.  
+Johnston, Mark. [“The Obscure Object of Hallucination.” (PDF)](https://link.springer.com/content/pdf/10.1023/B:PHIL.0000033753.64202.21.pdf) _Philosophical Studies_ 120, no. 1/3 (2004): 113–83.  
 
 
 {{< tdclose >}}
@@ -302,7 +302,7 @@ Burge
 {{< tdopen >}}
 
 
-Burge, Tyler. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[“Individualism and the Mental.” (PDF - 3MB)](https://philosophy.ucla.edu/wp-content/uploads/2018/08/Burge-1979-Individualism-and-the-Mental.pdf) _Midwest Studies in Philosophy_ 4, no. 1 (1979): 73–122.
+Burge, Tyler. [“Individualism and the Mental.” (PDF - 3MB)](https://philosophy.ucla.edu/wp-content/uploads/2018/08/Burge-1979-Individualism-and-the-Mental.pdf) _Midwest Studies in Philosophy_ 4, no. 1 (1979): 73–122.
 
 
 {{< tdclose >}}
@@ -362,7 +362,7 @@ Gettier; Nozick
 {{< tdopen >}}
 
 
-Gettier, Edmund L. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[“Is Justified True Belief Knowledge?” (PDF)](http://fitelson.org/proseminar/gettier.pdf) _Analysis_ 23, no. 6 (1963): 121–23.
+Gettier, Edmund L. [“Is Justified True Belief Knowledge?” (PDF)](http://fitelson.org/proseminar/gettier.pdf) _Analysis_ 23, no. 6 (1963): 121–23.
 
 Nozick, Robert. Selections from “Knowledge and Skepticism.” Chapter 3 in _Philosophical Explanations_. Belknap Press, 1983. ISBN: 9780674664791. \[Preview with [Google Books](https://www.google.com/books/edition/Philosophical_Explanations/N4zH86WogYwC?hl=en&gbpv=1)\]
 
@@ -388,7 +388,7 @@ Lewis; DeRose
 {{< tdopen >}}
 
 
-Lewis, David. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[“Elusive Knowledge.” (PDF)](https://fitelson.org/epistemology/lewis.pdf) _Australasian Journal of Philosophy_ 74, no. 4 (1996): 549–67.
+Lewis, David. [“Elusive Knowledge.” (PDF)](https://fitelson.org/epistemology/lewis.pdf) _Australasian Journal of Philosophy_ 74, no. 4 (1996): 549–67.
 
 DeRose, Keith. “Solving the Skeptical Problem.” Chapter 1 in _The Appearance of Ignorance: Knowledge, Skepticism, and Context, Volume 2._ Oxford University Press, 2018. ISBN: 9780199564477. \[Preview with [Google Books](https://www.google.com/books/edition/The_Appearance_of_Ignorance/PXFGDwAAQBAJ?hl=en&gbpv=1)\]
 
